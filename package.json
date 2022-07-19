@@ -1,6 +1,6 @@
 {
-  "name": "contact",
-  "homepage": "https://MishaelRatemo.github.io/contact",
+  "name": "contacts",
+  "homepage": "https://MishaelRatemo.github.io/contacts",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
